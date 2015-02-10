@@ -30,10 +30,6 @@ The source for these articles is available on GitHub: <a href='https://github.co
  - [Who Owns Your Messages?](/articles/en/teams/who-owns-your-messages)
  - [Security Audit Log](/articles/en/teams/security-audit-log)
  - [Claiming Domains](/articles/en/teams/claiming-domains)
-- [**Fun**](/articles/en/fun)
- - [Emoji Support](/articles/en/fun/emoji-support)
- - [IFTTT Integration](/articles/en/fun/ifttt-integration)
- - [Product Updates](/articles/en/fun/product-updates)
 - [**Power Users**](/articles/en/power-users)
  - [Restricted Rooms](/articles/en/power-users/restricted-rooms)
  - [Markdown Syntax](/articles/en/power-users/markdown-syntax)
@@ -49,6 +45,11 @@ The source for these articles is available on GitHub: <a href='https://github.co
  - [Screensharing](/articles/en/voice-video/screensharing)
  - [Google Hangouts Integration](/articles/en/voice-video/google-hangouts-integration)
  - [UberConference Integration](/articles/en/voice-video/uberconference-integration)
+- [**Fun**](/articles/en/fun)
+ - [Emoji Support](/articles/en/fun/emoji-support)
+ - [IFTTT Integration](/articles/en/fun/ifttt-integration)
+ - [Product Updates](/articles/en/fun/product-updates)
+
 
 <!--
 A Kato team is a secure place for professional communication. Instead of using a combination of messaging channels, such as email, SMS, Skype, and Facebook, Kato makes it easy to maintain all communication data in one place, available to all present and future team members.
