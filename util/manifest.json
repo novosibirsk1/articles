@@ -106,28 +106,6 @@
                 },
                 {
                     "type": "category",
-                    "title": "Fun",
-                    "src": "fun",
-                    "entities": [
-                        {
-                            "type": "page",
-                            "src": "emoji-support",
-                            "title": "Emoji Support"
-                        },
-                        {
-                            "type": "page",
-                            "src": "ifttt-integration",
-                            "title": "IFTTT Integration "
-                        },
-                        {
-                            "type": "page",
-                            "src": "product-updates",
-                            "title": "Product Updates"
-                        }
-                    ]
-                },
-                {
-                    "type": "category",
                     "title": "Power Users",
                     "src": "power-users",
                     "entities": [
@@ -204,6 +182,28 @@
                             "type": "page",
                             "src": "uberconference-integration",
                             "title": "UberConference Integration"
+                        }
+                    ]
+                },
+                {
+                    "type": "category",
+                    "title": "Fun",
+                    "src": "fun",
+                    "entities": [
+                        {
+                            "type": "page",
+                            "src": "emoji-support",
+                            "title": "Emoji Support"
+                        },
+                        {
+                            "type": "page",
+                            "src": "ifttt-integration",
+                            "title": "IFTTT Integration "
+                        },
+                        {
+                            "type": "page",
+                            "src": "product-updates",
+                            "title": "Product Updates"
                         }
                     ]
                 }
@@ -349,23 +349,6 @@
                     ]
                 },
                 {
-                  "type": "category",
-                    "title": "Развлечения",
-                    "src": "fun",
-                    "entities": [
-                        {
-                            "type": "page",
-                            "src": "emoji-support",
-                            "title": "Поддержка смайликов"
-                        },
-                        {
-                            "type": "page",
-                            "src": "ifttt-integration",
-                            "title": "Интеграция с IFTTT "
-                        }
-                    ]  
-                },
-                {
                     "type": "category",
                     "src": "kato-apps",
                     "title": "Kato-приложения",
@@ -408,6 +391,23 @@
                             "title": "Интеграция с UberConference"
                         }
                     ]
+                },
+                {
+                  "type": "category",
+                    "title": "Развлечения",
+                    "src": "fun",
+                    "entities": [
+                        {
+                            "type": "page",
+                            "src": "emoji-support",
+                            "title": "Поддержка смайликов"
+                        },
+                        {
+                            "type": "page",
+                            "src": "ifttt-integration",
+                            "title": "Интеграция с IFTTT "
+                        }
+                    ]  
                 }
             ]
         }
