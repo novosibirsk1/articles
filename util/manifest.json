@@ -253,7 +253,7 @@
                         {
                             "type": "page",
                             "src": "profile-cards",
-                            "title": "Карточки пользователей"
+                            "title": "Карточка пользователя"
                         },
                         {
                             "type": "page",
@@ -334,7 +334,7 @@
                         {
                             "type": "page",
                             "src": "keyboard-control",
-                            "title": "Горячие клавиши"
+                            "title": "Клавиатурный контроль"
                         },
                         {
                             "type": "page",
