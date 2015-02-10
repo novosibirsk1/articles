@@ -4,6 +4,7 @@ This section provides a basic overview of the Kato service. A great place to sta
 
 If you're an admin in your Kato team, be sure to familiarize yourself with the different [room types](/articles/en/general/room-types).
 
+## [How to Read This Document](/articles/en/general/notation)
 ## [Cheatsheet](/articles/en/general/cheatsheet)
 ## [Editing Messages](/articles/en/general/editing-messages)
 ## [Long Messages](/articles/en/general/long-messages)
