@@ -13,6 +13,7 @@ The source for these articles is available on GitHub: <a href='https://github.co
 ## Table of Contents
 
 - [**General**](/articles/en/general)
+ - [How to read that document](/articles/en/general/notation)
  - [Cheatsheet](/articles/en/general/cheatsheet)
  - [Editing Messages](/articles/en/general/editing-messages)
  - [Long Messages](/articles/en/general/long-messages)
