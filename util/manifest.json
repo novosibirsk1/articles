@@ -270,7 +270,7 @@
                         {
                             "type": "page",
                             "src": "noise-control",
-                            "title": "Борьба с информационным шумом"
+                            "title": "Управление информационным шумом"
                         },
                         {
                             "type": "page",
@@ -280,12 +280,12 @@
                         {
                             "type": "page",
                             "src": "auto-hide-notifications",
-                            "title": "Автоматически скрывающиеся уведомления"
+                            "title": "Прячем всплывающие уведомления на десктопе"
                         },
                         {
                             "type": "page",
                             "src": "group-mentions",
-                            "title": "Групповые упоминания"
+                            "title": "Упоминания группы"
                         }
                     ]
                 },
@@ -302,24 +302,24 @@
                         {
                             "type": "page",
                             "src": "security-audit-log",
-                            "title": "Журналы безопасности"
+                            "title": "Журнал аудитора"
                         },
                         {
                             "type": "page",
                             "src": "claiming-domains",
-                            "title": "Подключение домена"
+                            "title": "Захват доменного имени"
                         }
                     ]
                 },
                 {
                     "type": "category",
-                    "title": "Возможности для продвинутых пользователей",
+                    "title": "Специально для продвинутых пользователей",
                     "src": "power-users",
                     "entities": [
                         {
                             "type": "page",
                             "src": "restricted-rooms",
-                            "title": "Приватные комнаты"
+                            "title": "Защищённые комнаты"
                         },
                         {
                             "type": "page",
@@ -344,19 +344,19 @@
                         {
                             "type": "page",
                             "src": "api",
-                            "title": "API"
+                            "title": "Информация об API"
                         }
                     ]
                 },
                 {
                   "type": "category",
-                    "title": "Дополнительные возможности",
+                    "title": "Развлечения",
                     "src": "fun",
                     "entities": [
                         {
                             "type": "page",
                             "src": "emoji-support",
-                            "title": "Поддержка Emoji"
+                            "title": "Поддержка смайликов"
                         },
                         {
                             "type": "page",
@@ -367,18 +367,18 @@
                 },
                 {
                     "type": "category",
-                    "title": "Приложения",
                     "src": "kato-apps",
+                    "title": "Kato-приложения",
                     "entities": [
                         {
                             "type": "page",
                             "src": "desktop",
-                            "title": "Десктоп-приложения"
+                            "title": "Kato-приложения для десктопов"
                         },
                         {
                             "type": "page",
                             "src": "mobile",
-                            "title": "Мобильные приложения"
+                            "title": "Мобильные Kato-приложения"
                         }
                     ]
                 },
@@ -390,7 +390,7 @@
                         {
                             "type": "page",
                             "src": "video-voice-calling",
-                            "title": "Голосовые и видеозвонки"
+                            "title": "Видео-звонки и аудио-звонки"
                         },
                         {
                             "type": "page",
