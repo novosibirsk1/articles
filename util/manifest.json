@@ -58,7 +58,7 @@
                 {
                     "type": "category",
                     "src": "notifications",
-                    "title": "Notifications",
+                    "title": "Mentions and Notifications",
                     "entities": [
                         {
                             "type": "page",
@@ -161,7 +161,7 @@
                 {
                     "type": "category",
                     "src": "voice-video",
-                    "title": "Voice & Video",
+                    "title": "Voice and Video",
                     "entities": [
                         {
                             "type": "page",
@@ -270,7 +270,7 @@
                 {
                     "type": "category",
                     "src": "notifications",
-                    "title": "Уведомления",
+                    "title": "Упоминания и уведомления",
                     "entities": [
                         {
                             "type": "page",
