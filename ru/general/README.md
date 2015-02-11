@@ -7,6 +7,7 @@
 Также имеет смысл внимательно прочитать раздел о различных [типах комнат](/articles/ru/general/room-types).
 
 ## [Как читать этот документ](/articles/ru/general/notation)
+## [Словарик](/articles/ru/general/dictionary)
 ## [Шпаргалка](/articles/ru/general/cheatsheet)
 ## [Редактирование сообщений](/articles/ru/general/editing-messages)
 ## [Длинные сообщения](/articles/ru/general/long-messages)
