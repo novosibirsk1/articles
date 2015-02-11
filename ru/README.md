@@ -18,7 +18,7 @@
  - [Перестановка комнат](/articles/ru/general/room-drag-n-drop)
  - [Карточка участника](/articles/ru/general/profile-cards)
  - [Глобальный поиск](/articles/ru/general/global-search)
-- [**Уведомления**](/articles/ru/notifications)
+- [**Упоминания и уведомления**](/articles/ru/notifications)
  - [Управление информационным шумом](/articles/ru/notifications/noise-control)
  - [Звуковые уведомления](/articles/ru/notifications/audio-notifications)
  - [Прячем всплывающие уведомления на десктопе](/articles/ru/notifications/auto-hide-notifications)
