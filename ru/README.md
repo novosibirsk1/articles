@@ -10,6 +10,7 @@
 
 - [**Обзор**](/articles/ru/general)
  - [Как читать этот документ](/articles/ru/general/notation)
+ - [Словарик](/articles/ru/general/dictionary)
  - [Шпаргалка](/articles/ru/general/cheatsheet)
  - [Редактирование сообщений](/articles/ru/general/editing-messages)
  - [Длинные сообщения](/articles/ru/general/long-messages)
