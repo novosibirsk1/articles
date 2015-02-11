@@ -1,17 +1,17 @@
 {
-    "src": "",
     "type": "home",
+    "src": "",
     "entities": [
         {
             "type": "language",
-            "title": "English",
             "src": "en",
+            "title": "English",
             "improve": "Improve this article",
             "entities": [
                 {
-                    "title": "General",
                     "type": "category",
                     "src": "general",
+                    "title": "General",
                     "entities": [
                         {
                             "type": "page",
@@ -57,8 +57,8 @@
                 },
                 {
                     "type": "category",
-                    "title": "Notifications",
                     "src": "notifications",
+                    "title": "Notifications",
                     "entities": [
                         {
                             "type": "page",
@@ -84,8 +84,8 @@
                 },
                 {
                     "type": "category",
-                    "title": "Teams",
                     "src": "teams",
+                    "title": "Teams",
                     "entities": [
                         {
                             "type": "page",
@@ -106,8 +106,8 @@
                 },
                 {
                     "type": "category",
-                    "title": "Power Users",
                     "src": "power-users",
+                    "title": "Power Users",
                     "entities": [
                         {
                             "type": "page",
@@ -143,8 +143,8 @@
                 },
                 {
                     "type": "category",
-                    "title": "Apps",
                     "src": "kato-apps",
+                    "title": "Apps",
                     "entities": [
                         {
                             "type": "page",
@@ -160,8 +160,8 @@
                 },
                 {
                     "type": "category",
-                    "title": "Voice & Video",
                     "src": "voice-video",
+                    "title": "Voice & Video",
                     "entities": [
                         {
                             "type": "page",
@@ -187,8 +187,8 @@
                 },
                 {
                     "type": "category",
-                    "title": "Fun",
                     "src": "fun",
+                    "title": "Fun",
                     "entities": [
                         {
                             "type": "page",
@@ -211,19 +211,24 @@
         },
         {
             "type": "language",
-            "title": "Русский",
             "src": "ru",
+            "title": "Русский",
             "improve": "Предложить улучшение",
             "entities": [
                 {
-                    "title": "Обзор",
                     "type": "category",
                     "src": "general",
+                    "title": "Обзор",
                     "entities": [
                         {
                             "type": "page",
                             "src": "notation",
                             "title": "Как читать этот документ"
+                        },
+                        {
+                            "type": "page",
+                            "src": "dictionary",
+                            "title": "Словарик"
                         },
                         {
                             "type": "page",
@@ -264,8 +269,8 @@
                 },
                 {
                     "type": "category",
-                    "title": "Уведомления",
                     "src": "notifications",
+                    "title": "Уведомления",
                     "entities": [
                         {
                             "type": "page",
@@ -291,8 +296,8 @@
                 },
                 {
                     "type": "category",
-                    "title": "Команды",
                     "src": "teams",
+                    "title": "Команды",
                     "entities": [
                         {
                             "type": "page",
@@ -313,8 +318,8 @@
                 },
                 {
                     "type": "category",
-                    "title": "Для продвинутых пользователей",
                     "src": "power-users",
+                    "title": "Для продвинутых пользователей",
                     "entities": [
                         {
                             "type": "page",
@@ -367,8 +372,8 @@
                 },
                 {
                     "type": "category",
-                    "title": "Аудио и видео",
                     "src": "voice-video",
+                    "title": "Аудио и видео",
                     "entities": [
                         {
                             "type": "page",
@@ -393,9 +398,9 @@
                     ]
                 },
                 {
-                  "type": "category",
-                    "title": "Развлечения",
+                    "type": "category",
                     "src": "fun",
+                    "title": "Развлечения",
                     "entities": [
                         {
                             "type": "page",
