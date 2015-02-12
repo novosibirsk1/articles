@@ -1,22 +1,22 @@
 {
-    "src": "",
     "type": "home",
+    "src": "",
     "entities": [
         {
             "type": "language",
-            "title": "English",
             "src": "en",
+            "title": "English",
             "improve": "Improve this article",
             "entities": [
                 {
-                    "title": "General",
                     "type": "category",
                     "src": "general",
+                    "title": "General",
                     "entities": [
                         {
                             "type": "page",
                             "src": "notation",
-                            "title": "Notation"
+                            "title": "How to Read This Document"
                         },
                         {
                             "type": "page",
@@ -57,8 +57,8 @@
                 },
                 {
                     "type": "category",
-                    "title": "Notifications",
                     "src": "notifications",
+                    "title": "Mentions and Notifications",
                     "entities": [
                         {
                             "type": "page",
@@ -84,8 +84,8 @@
                 },
                 {
                     "type": "category",
-                    "title": "Teams",
                     "src": "teams",
+                    "title": "Teams",
                     "entities": [
                         {
                             "type": "page",
@@ -106,30 +106,8 @@
                 },
                 {
                     "type": "category",
-                    "title": "Fun",
-                    "src": "fun",
-                    "entities": [
-                        {
-                            "type": "page",
-                            "src": "emoji-support",
-                            "title": "Emoji Support"
-                        },
-                        {
-                            "type": "page",
-                            "src": "ifttt-integration",
-                            "title": "IFTTT Integration "
-                        },
-                        {
-                            "type": "page",
-                            "src": "product-updates",
-                            "title": "Product Updates"
-                        }
-                    ]
-                },
-                {
-                    "type": "category",
-                    "title": "Power Users",
                     "src": "power-users",
+                    "title": "Power Users",
                     "entities": [
                         {
                             "type": "page",
@@ -165,8 +143,8 @@
                 },
                 {
                     "type": "category",
-                    "title": "Apps",
                     "src": "kato-apps",
+                    "title": "Apps",
                     "entities": [
                         {
                             "type": "page",
@@ -182,8 +160,8 @@
                 },
                 {
                     "type": "category",
-                    "title": "Voice & Video",
                     "src": "voice-video",
+                    "title": "Voice and Video",
                     "entities": [
                         {
                             "type": "page",
@@ -206,24 +184,51 @@
                             "title": "UberConference Integration"
                         }
                     ]
+                },
+                {
+                    "type": "category",
+                    "src": "fun",
+                    "title": "Fun",
+                    "entities": [
+                        {
+                            "type": "page",
+                            "src": "emoji-support",
+                            "title": "Emoji Support"
+                        },
+                        {
+                            "type": "page",
+                            "src": "ifttt-integration",
+                            "title": "IFTTT Integration "
+                        },
+                        {
+                            "type": "page",
+                            "src": "product-updates",
+                            "title": "Product Updates"
+                        }
+                    ]
                 }
             ]
         },
         {
             "type": "language",
-            "title": "Русский",
             "src": "ru",
+            "title": "Русский",
             "improve": "Предложить улучшение",
             "entities": [
                 {
-                    "title": "Обзор",
                     "type": "category",
                     "src": "general",
+                    "title": "Обзор",
                     "entities": [
                         {
                             "type": "page",
                             "src": "notation",
                             "title": "Как читать этот документ"
+                        },
+                        {
+                            "type": "page",
+                            "src": "dictionary",
+                            "title": "Словарик"
                         },
                         {
                             "type": "page",
@@ -253,24 +258,24 @@
                         {
                             "type": "page",
                             "src": "profile-cards",
-                            "title": "Карточки пользователей"
+                            "title": "Карточка участника"
                         },
                         {
                             "type": "page",
                             "src": "global-search",
-                            "title": "Поиск по истории всех команд и комнат"
+                            "title": "Глобальный поиск"
                         }
                     ]
                 },
                 {
                     "type": "category",
-                    "title": "Уведомления",
                     "src": "notifications",
+                    "title": "Упоминания и уведомления",
                     "entities": [
                         {
                             "type": "page",
                             "src": "noise-control",
-                            "title": "Борьба с информационным шумом"
+                            "title": "Управление информационным шумом"
                         },
                         {
                             "type": "page",
@@ -280,19 +285,19 @@
                         {
                             "type": "page",
                             "src": "auto-hide-notifications",
-                            "title": "Автоматически скрывающиеся уведомления"
+                            "title": "Прячем всплывающие уведомления на десктопе"
                         },
                         {
                             "type": "page",
                             "src": "group-mentions",
-                            "title": "Групповые упоминания"
+                            "title": "Упоминания группы"
                         }
                     ]
                 },
                 {
                     "type": "category",
-                    "title": "Команды",
                     "src": "teams",
+                    "title": "Команды",
                     "entities": [
                         {
                             "type": "page",
@@ -302,24 +307,24 @@
                         {
                             "type": "page",
                             "src": "security-audit-log",
-                            "title": "Журналы безопасности"
+                            "title": "Журнал аудитора"
                         },
                         {
                             "type": "page",
                             "src": "claiming-domains",
-                            "title": "Подключение домена"
+                            "title": "Захват доменного имени"
                         }
                     ]
                 },
                 {
                     "type": "category",
-                    "title": "Возможности для продвинутых пользователей",
                     "src": "power-users",
+                    "title": "Для продвинутых пользователей",
                     "entities": [
                         {
                             "type": "page",
                             "src": "restricted-rooms",
-                            "title": "Приватные комнаты"
+                            "title": "Защищённые комнаты"
                         },
                         {
                             "type": "page",
@@ -334,7 +339,7 @@
                         {
                             "type": "page",
                             "src": "keyboard-control",
-                            "title": "Горячие клавиши"
+                            "title": "Клавиатурный контроль"
                         },
                         {
                             "type": "page",
@@ -344,53 +349,36 @@
                         {
                             "type": "page",
                             "src": "api",
-                            "title": "API"
+                            "title": "Информация об API"
                         }
                     ]
                 },
                 {
-                  "type": "category",
-                    "title": "Дополнительные возможности",
-                    "src": "fun",
-                    "entities": [
-                        {
-                            "type": "page",
-                            "src": "emoji-support",
-                            "title": "Поддержка Emoji"
-                        },
-                        {
-                            "type": "page",
-                            "src": "ifttt-integration",
-                            "title": "Интеграция с IFTTT "
-                        }
-                    ]  
-                },
-                {
                     "type": "category",
-                    "title": "Приложения",
                     "src": "kato-apps",
+                    "title": "Kato-приложения",
                     "entities": [
                         {
                             "type": "page",
                             "src": "desktop",
-                            "title": "Десктоп-приложения"
+                            "title": "Kato-приложения для десктопов"
                         },
                         {
                             "type": "page",
                             "src": "mobile",
-                            "title": "Мобильные приложения"
+                            "title": "Мобильные Kato-приложения"
                         }
                     ]
                 },
                 {
                     "type": "category",
-                    "title": "Аудио и видео",
                     "src": "voice-video",
+                    "title": "Аудио и видео",
                     "entities": [
                         {
                             "type": "page",
                             "src": "video-voice-calling",
-                            "title": "Голосовые и видеозвонки"
+                            "title": "Видео-звонки и аудио-звонки"
                         },
                         {
                             "type": "page",
@@ -408,6 +396,23 @@
                             "title": "Интеграция с UberConference"
                         }
                     ]
+                },
+                {
+                    "type": "category",
+                    "src": "fun",
+                    "title": "Развлечения",
+                    "entities": [
+                        {
+                            "type": "page",
+                            "src": "emoji-support",
+                            "title": "Поддержка смайликов"
+                        },
+                        {
+                            "type": "page",
+                            "src": "ifttt-integration",
+                            "title": "Интеграция с IFTTT "
+                        }
+                    ]  
                 }
             ]
         }
